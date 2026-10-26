@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rishi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20spent%20my%20career%20breaking%20software.%20Now%20I%20build%20it.&descAlignY=60&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5A8&center=true&vCenter=true&width=700&lines=QA+Engineer+%E2%86%92+Full-Stack+Developer;I+know+where+bugs+hide.+I+write+code+to+avoid+them.;Learning+in+public.+Shipping+in+public.;Currently+building%3A+Expense+Tracker+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5A8&center=true&vCenter=true&width=700&lines=QA+Engineer+%E2%86%92+Full-Stack+Developer;I+know+where+bugs+hide.+I+write+code+to+avoid+them.;Learning+in+public.+Shipping+in+public.;Currently+building%3A+My+Portfolio+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
